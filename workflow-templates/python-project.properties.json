@@ -1,0 +1,11 @@
+{
+    "name": "Python Project Workflow",
+    "description": "Python project workflow template with testing and linting",
+    "iconName": "python",
+    "categories": ["Python", "Testing", "Continuous Integration"],
+    "filePatterns": [
+        "requirements.txt$",
+        "setup.py$",
+        "^.*\\.py$"
+    ]
+}

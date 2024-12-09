@@ -1,0 +1,11 @@
+{
+    "name": "C++ Project Workflow",
+    "description": "C++ project workflow template with CMake",
+    "iconName": "cpp",
+    "categories": ["C++", "CMake", "Continuous Integration"],
+    "filePatterns": [
+        "CMakeLists.txt$",
+        "^.*\\.cpp$",
+        "^.*\\.hpp$"
+    ]
+}
